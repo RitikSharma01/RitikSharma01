@@ -1,27 +1,52 @@
-[![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)](https://github.com/RitikSharma01)
-<h1 align="center">Hi 👋, I'm Ritik Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1518535/screenshots/7528356/media/e11e5b8aaa2187e4e1a7c3da0553208e.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritiksharma01&label=Profile%20views&color=0e75b6&style=flat" alt="ritiksharma01" /> </p>
+[![MasterHead](https://camo.githubusercontent.com/ac7bf7843fbe41e33a5bcdf4a324d0a50c407c25cb9b7f5fe20da207145e9388/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)](https://github.com/RitikSharma01)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+# Hi 👋, I'm Ritik Sharma
 
-- 🌱 I’m currently learning **React and Django**
+### RPA / UiPath Developer | Automating processes, one bot at a time
 
-- 📫 How to reach me **sharmaritik896@gmail.com**
+- 🔭 Currently working as an **Intelligent Automation Solution Analyst @ Accenture**, building and supporting enterprise RPA solutions
+- ⚙️ I design automation workflows with **UiPath (REFramework, Orchestrator, Queues, Assets)** and **Power Automate**
+- 💡 Previously built bots at **Continuserve** that cut manual processing effort by up to 70%
+- 🌱 Currently sharpening my skills in **advanced UiPath (Orchestrator administration, CI/CD for bots)** and **Python for automation**
+- 📫 How to reach me: **sharmaritik896@gmail.com**
+- 🏆 **UiPath Certifications:**
+  - UiPath Certified Professional Automation Developer Professional Certification — Mar 2026
+  - UiPath Academy Automation Developer Professional Training — Dec 2025
+  - UiPath Academy Test Automation Engineer Training — Nov 2024
+  - UiPath Academy Automation Developer Associate Training — Nov 2024
+  - UiPath Academy Automation Explorer Training — Nov 2024
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/ritik-sharma-01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritik-sharma-01" height="30" width="40" /></a>
 <a href="https://instagram.com/ritik_its_me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritik_its_me" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sharmaritik896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sharmaritik896" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritiksharma01&show_icons=true&locale=en&layout=compact" alt="ritiksharma01" /></p>
+### Languages and Tools:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritiksharma01&show_icons=true&locale=en" alt="ritiksharma01" /></p>
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritiksharma01&" alt="ritiksharma01" /></p>
+ [![ritiksharma01](https://camo.githubusercontent.com/6ffa380b55524465aafb2e15e076d71c48cdaefcb0c34272985dd31d9d1351d3/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d726974696b736861726d613031266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)](https://camo.githubusercontent.com/6ffa380b55524465aafb2e15e076d71c48cdaefcb0c34272985dd31d9d1351d3/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d726974696b736861726d613031266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)
+
+### Featured Automation Projects
+
+- 🧾 **Invoice Processing Automation (UiPath)** — extracts and validates data from invoice PDFs, cutting manual effort by 70%
+- ⏰ **Timesheet Approval Reminder Bot (UiPath)** — queries and filters contractor records to auto-send manager reminder emails
+- 📂 **SharePoint File Retrieval (Power Automate)** — scheduled flow to pull files by metadata with success/failure alerting
+
+### GitHub Stats
+
+[![ritiksharma01](https://camo.githubusercontent.com/3901d63cd22a8c57a48e82ab5791979e4b083b4a1a832ce19c0ca3ffff40c00f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d726974696b736861726d6130312673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374)](https://camo.githubusercontent.com/3901d63cd22a8c57a48e82ab5791979e4b083b4a1a832ce19c0ca3ffff40c00f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d726974696b736861726d6130312673686f775f69636f6e733d74727565266c6f63616c633d656e266c61796f75743d636f6d70616374)
+
+ [![ritiksharma01](https://camo.githubusercontent.com/af100a5a117c1f1ab3d9a8fa2150444bb19f9922989a46be7d8e142ab6ea9d4d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d726974696b736861726d6130312673686f775f69636f6e733d74727565266c6f63616c653d656e)](https://camo.githubusercontent.com/af100a5a117c1f1ab3d9a8fa2150444bb19f9922989a46be7d8e142ab6ea9d4d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d726974696b736861726d6130312673686f775f69636f6e733d74727565266c6f63616c653d656e)
+
+[![ritiksharma01](https://camo.githubusercontent.com/851044e05ba49a019bb6f8be4dad14e1d0696caecaa35039dd2e8fc85581b89f/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d726974696b736861726d61303126)](https://camo.githubusercontent.com/851044e05ba49a019bb6f8be4dad14e1d0696caecaa35039dd2e8fc85581b89f/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d726974696b736861726d61303126)
